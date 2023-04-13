@@ -1,5 +1,7 @@
 # agileafsozlugu.com
 
-## Contributions
+## Contribution Rules
 
-pull request açabilirisiniz yeteri kadar lean ise kabul edeceğim
+- lean olmanız gerekiyor
+- 1 haftadan uzun sprint koşuyorsanız uğraşmayın bile yeteri kadar agile değilsiniz
+- pull request'te koştuğunuz sprintin süresini belirtmeniz gerekiyor
